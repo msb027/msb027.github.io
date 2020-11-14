@@ -1,0 +1,27 @@
+{
+  "name": "msb027.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msb027/msb027.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msb027/msb027.github.io/issues"
+  },
+  "homepage": "https://github.com/msb027/msb027.github.io#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.1",
+    "@popperjs/core": "^2.5.4",
+    "bootstrap": "^4.5.3",
+    "jquery": "^3.5.1",
+    "popper": "^1.0.1"
+  }
+}
